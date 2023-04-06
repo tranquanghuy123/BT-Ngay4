@@ -1,0 +1,6 @@
+﻿  BT2-ptb2.cpp
+D:\Lap trình C++\Ngay 4\BT2-ptb2\BT2-ptb2\BT2-ptb2.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Lap trình C++\Ngay 4\BT2-ptb2\BT2-ptb2\BT2-ptb2.cpp(25,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Lap trình C++\Ngay 4\BT2-ptb2\BT2-ptb2\BT2-ptb2.cpp(40,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Lap trình C++\Ngay 4\BT2-ptb2\BT2-ptb2\BT2-ptb2.cpp(41,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  BT2-ptb2.vcxproj -> D:\Lap trình C++\Ngay 4\BT2-ptb2\x64\Debug\BT2-ptb2.exe
